@@ -4,9 +4,9 @@ import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
 
-b = 1/2 # contacts per day of infected individual
-k = 1/3 # fraction recovered per day
-n = 200 # days
+b = 1/4 # contacts per day of infected individual
+k = 1/12 # fraction recovered per day
+n = 300 # days
 
 N = 7900000000 # total pop.
 s_nau = 1
